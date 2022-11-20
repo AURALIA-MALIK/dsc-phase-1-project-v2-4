@@ -44,7 +44,7 @@ I will use exploratory data analysis to produce insights for a business stakehol
 I'll walk you through my research findings and how I turn them into useful information that stakeholders can use to guide their decision-making.
 
 
----![Screenshot](1.png)
+---![Screenshot](first_image.png)
 
 
 
@@ -113,7 +113,7 @@ For a film studio to exist or be successful, we must conduct research, comprehen
 
 
 I'll be transforming data into usable format from this point on.
-![Screenshot](2.png)
+![Screenshot](second_image.jpg)
 
 
 
@@ -121,6 +121,7 @@ I'll be transforming data into usable format from this point on.
 
 The relationships shown in the ERD below are what our datasets should have once they have been cleaned up
 in order for the stakeholder to understand what we are attempting to do.
+
 ![Screenshot](movie_data_erd.jpeg)
 
 
@@ -8158,9 +8159,9 @@ plt.show()
       font.set_text(s, 0, flags=flags)
     
 
-
+![Screenshot](output_74_1.png)
     
-![png](output_74_1.png)
+
     
 
 
