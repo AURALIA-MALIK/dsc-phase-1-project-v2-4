@@ -44,20 +44,7 @@ I will use exploratory data analysis to produce insights for a business stakehol
 I'll walk you through my research findings and how I turn them into useful information that stakeholders can use to guide their decision-making.
 
 
----![Screenshot](first_image.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
+![App Screenshot](first_image.png)
 
 
 
@@ -78,14 +65,6 @@ Microsoft sees all the big companies creating original video content and they wa
 3. Which of the genres has the highest production budget?
 4. Which Genre has the highest world wide gross?
 5. Which is the most voted for genre?
-
-
-
-
- 
-
-
-
 
 
 
@@ -113,8 +92,7 @@ For a film studio to exist or be successful, we must conduct research, comprehen
 
 
 I'll be transforming data into usable format from this point on.
-![Screenshot](second_image.jpg)
-
+![App Screenshot](second_image.jpg)
 
 
 # A TABLE OF RELATIONSHIPS
