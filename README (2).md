@@ -44,7 +44,7 @@ I will use exploratory data analysis to produce insights for a business stakehol
 I'll walk you through my research findings and how I turn them into useful information that stakeholders can use to guide their decision-making.
 
 
-![App Screenshot](first_image.png)
+![Screenshot](first_image.png)
 
 
 
@@ -92,7 +92,7 @@ For a film studio to exist or be successful, we must conduct research, comprehen
 
 
 I'll be transforming data into usable format from this point on.
-![App Screenshot](second_image.jpg)
+![Screenshot](second_image.jpg)
 
 
 # A TABLE OF RELATIONSHIPS
@@ -7434,7 +7434,7 @@ plt.show()
 
 
     
-![png](output_65_0.png)
+![App Screenshot](output_65_0.png)
     
 
 
@@ -7767,7 +7767,7 @@ plt.show()
 
 
     
-![png](output_69_0.png)
+![App Screenshot](output_69_0.png)
     
 
 
@@ -8137,7 +8137,7 @@ plt.show()
       font.set_text(s, 0, flags=flags)
     
 
-![Screenshot](output_74_1.png)
+![App Screenshot](output_74_1.png)
     
 
     
@@ -8316,7 +8316,7 @@ plt.show()
 
 
     
-![png](output_78_0.png)
+![App Screenshot](output_78_0.png)
     
 
 
